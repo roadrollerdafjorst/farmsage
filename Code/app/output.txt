@@ -1,0 +1,6 @@
+Message
+Precipitation Forecast
+Rainfall forecast for the next 2 days (including today) is 0.00 mm with a 0% chance.
+92.96
+49.89
+23.04
